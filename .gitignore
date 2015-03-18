@@ -12,6 +12,7 @@
 .idea
 /Gemfile.lock
 blobs
+blobs_import
 config/dev.yml
 config/private.yml
 dev_releases
