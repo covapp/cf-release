@@ -23,6 +23,7 @@ frontend http-in
     option forwardfor
     reqadd X-Forwarded-Proto:\ http
     default_backend http-routers
+    redirect scheme https code 302 if !{ ssl_fc }
 <% end %>
 
 <% if p("ha_proxy.ssl_pem") %>
