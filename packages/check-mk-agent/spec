@@ -2,4 +2,4 @@
 name: check-mk-agent
 dependencies: []
 files:
-- check-mk-agent/check-mk-agent_1.2.4p5-2_all.deb
+- check-mk-agent/check-mk-agent_1.2.4.tgz
