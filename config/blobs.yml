@@ -1,306 +1,296 @@
 ---
-python-buildpack/python_buildpack-offline-v1.1.2.zip:
-  object_id: 8140a13b-2f99-46d4-9fdc-cf2c57433804
-  sha: !binary |-
-    MWRkOTc2YmVhYjE1YzVlYzNlZmU1YWQwNWYyYTAzYzI4Y2VjMDQ4ZQ==
-  size: 329659965
-ruby-buildpack/ruby_buildpack-offline-v1.2.1.zip:
-  object_id: 85b3f38b-3901-4f76-acba-8a41ecd8a58a
-  sha: !binary |-
-    MjRlOGIyZjQyNmQwZDM3MjlhYjkxYjI4YjBlMTkyYTIxMThmOGUyMw==
-  size: 864863823
-nodejs-buildpack/nodejs_buildpack-offline-v1.1.1.zip:
-  object_id: 816d0b78-e493-433d-acdc-4200666b9d7a
-  sha: !binary |-
-    ZGZjNGVlYjIxZTY5MjVkM2NlNWNkMGU1MDBjZGJlODU4NjljZGMxNg==
-  size: 437952578
-golang/go1.4.2.linux-amd64.tar.gz:
-  object_id: aa45c3b3-8ed7-4c5f-b4d3-12280672a346
-  sha: !binary |-
-    NTAyMGFmOTRiNTJiNjVjYzliNmYxMWQ1MGE2N2U0YmFlMDdiMGFmZg==
-  size: 62442704
-golang/go1.3.1.linux-amd64.tar.gz:
-  object_id: d1427da5-3a29-4ae9-9d45-555158c5918e
-  sha: !binary |-
-    M2FmMDExY2MxOWIyMWM3MTgwZjI2MDRmZDg1ZmJjNGRkZGU5NzE0Mw==
-  size: 51930765
-golang/go1.2.1.linux-amd64.tar.gz:
-  object_id: 2d69a014-ec95-45d5-8529-725e583e6796
-  sha: !binary |-
-    NzYwNWY1NzdmZjZhYzJkNjA4YTNhNGU4MjliMjU1YWUyZWJjOGRjZg==
-  size: 56123695
-go-buildpack/go_buildpack-offline-v1.1.2.zip:
-  object_id: 21f45a06-ef78-4222-80ba-3491beaf2c8a
-  sha: !binary |-
-    YWEzY2ViNzZmMDE3NDIxZGRiNzczMzM1MjEyM2Y3YzgxZTQxYjE0Yw==
-  size: 663441909
-postgres/postgres-9.0.3-1.amd64.tar.gz:
-  object_id: f5cfb8d6-0523-4d8f-ac08-fb6e79597bed
-  sha: !binary |-
-    ZTQ3ZWU5Yzg0MWVjZGU0ZGYxMjFmNDRkZjI4MmFlYjNjNTBhNDhkMg==
-  size: 16203511
-postgres/postgresql-9.0.3.tar.gz:
-  object_id: 39524c6b-780f-40ae-bd36-334573b2232b
-  sha: !binary |-
-    YzhmYjVkMWQ3OTMwZTc4MjExZTU1NGJiNTc1MTE4M2E4MTQ4ZDBlZQ==
-  size: 18335858
-postgres/postgres-9.0.3-1.i386.tar.gz:
-  object_id: c9534e1c-5c0c-450a-955e-1bbd5b61236e
-  sha: !binary |-
-    YjJiZGUzMWU3MjBlYjIxOWJmZGM5ZjFiNzg0Zjk4NWVjY2EyY2JmYg==
-  size: 15111387
-ruby-2.1.4/bundler-1.7.4.gem:
-  object_id: 159ceda0-6748-4931-866d-ccc8af990259
-  sha: !binary |-
-    ZTExZWI3ZjliODA3ZjViN2YzYmViN2MyM2EwNjgwM2M3NDg0YWViYw==
-  size: 301568
-ruby-2.1.4/ruby-2.1.4.tar.gz:
-  object_id: 65218338-b95c-42ed-a7d6-5c710d2e286b
-  sha: !binary |-
-    MjllOWNmZGQ5ZTk4OWI3NjIxZDc2OTZlZjNmOTcwMjYyYTA4ZGJjMw==
-  size: 15127418
-ruby-2.1.4/rubygems-2.4.2.tgz:
-  object_id: 30eac1c2-caea-453a-a0c3-629d4b99f6c9
-  sha: !binary |-
-    NTM4ZjdhMjY0Nzk4Mzc3ZTVhNjMwNTZmOTc5YzQzZjQ0MTYxM2ZmMw==
-  size: 440555
-ruby-2.1.4/yaml-0.1.6.tar.gz:
-  object_id: c4077d5c-05bc-41c1-b5e5-4049c8ba44e0
-  sha: !binary |-
-    ZjNkNDA0ZTExYmVjM2M0ZWZjZGRmZDE0YzQyZDQ2ZjFhYWJlMGI1ZA==
-  size: 503012
-mysql/client-5.1.62-rel13.3-435-Linux-x86_64.tar.gz:
-  object_id: 27147859-0712-4ea7-928f-1b373389aeac
-  sha: !binary |-
-    NmU1YTE3MTk1ODMxNjg4YTVmMTRmMjBhYTVkOWNkNWQ1ZjQxNjRkYg==
-  size: 4105211
-debian_nfs_server/nfs-kernel-server_1%3a1.2.0-4ubuntu4.1_amd64.deb:
-  object_id: c8735cb2-5d6c-490e-aaba-7ba401b3508c
-  sha: !binary |-
-    YTQ0YjNmODMxOTk4NGJhY2U2MWYyMWJiNmQxNWNlZTE0MTllNWJmMw==
-  size: 169618
-php-buildpack/php_buildpack-offline-v3.0.4.zip:
-  object_id: 9fb1443f-187e-40db-b359-a8dd39e36def
-  sha: !binary |-
-    M2IxYjhmNDI2YmI5NmY0YTJhNDdkYWZmNmQ4N2FhNGFlZmIzNTg1Zg==
-  size: 479764812
-uaa/apache-tomcat-7.0.55.tar.gz:
-  object_id: 7b265daa-a8c4-48b1-acfe-a3ebfd24b6b0
-  sha: !binary |-
-    NGUyM2YxZTNkNmQyNGUwYWZmZWJlNzhmNmY1YzVkNWE0OWViNGUzNw==
-  size: 8941662
-uaa/openjdk-1.7.0-u40-unofficial-macosx-x86_64-bundle.tgz:
-  object_id: 156b780d-36e0-4999-bdf3-b9da610a5ac4
-  sha: !binary |-
-    YWM3ZmViYzViYmZmMmRlZGY4YWRkNjI0YTcyN2E0YzBhYzZjM2QxMA==
-  size: 65991397
-uaa/cloudfoundry-identity-varz-1.0.2.war:
-  object_id: 5c9b9a24-c6d1-4058-b70b-21346f546b1f
-  sha: !binary |-
-    OGMzNWVkMzVmYjZkZmM0YTk3YTI0MzQ0Nzc2M2M2MzU4MTIwNjZlOA==
-  size: 5727747
-uaa/openjdk-1.7.0-u40-unofficial-linux-amd64.tgz:
-  object_id: 5c32726e-51f7-4234-8185-578983d901dc
-  sha: !binary |-
-    YmI0MWM2OGUwZGMyNmFkNzE2MzVkNGJmZjhkYTE2MjQ2ZGVkMTBmMA==
-  size: 42574624
-uaa/openjdk-1.7.0_51.tar.gz:
-  object_id: 2303d99e-8f1d-4737-b3ab-b5c6e2e8827e
-  sha: !binary |-
-    MGY0ZDM3MDVlM2E0ZTE0NTIyNTBkZWY1N2NmYzM2YWI2Y2MzNzM1NQ==
-  size: 34729532
-buildpack_cache/rails_log_stdout.tgz:
-  object_id: 1de3dc2c-55ab-4ca6-b380-c300bb4b5779
-  sha: !binary |-
-    YzdmNmIzY2E2MDI2MjhkNDM4YjYzODllNjFiMjZlMjA2ZTJlMzcyNw==
-  size: 719
-buildpack_cache/openjdk-1.8.0_M7.tar.gz:
-  object_id: e724f2a1-da49-45e2-940e-99b2cb4ee354
-  sha: !binary |-
-    ZGZmZDhhYTA3NTA0NzU0ZTI1YWRmZjk1NDdkY2U2YTM2NmM0NWQxNA==
-  size: 38150032
-buildpack_cache/ruby-build-1.8.7.tgz:
-  object_id: c76b072a-9a47-461d-a4f1-3d3679c5e124
-  sha: !binary |-
-    NWM3NWExYTU1M2Q5Yjc0ZDUyOWI2OTI5YzJkMWI4OWIyMWVmZjUyOA==
-  size: 4400433
-buildpack_cache/postgresql-9.0-801.jdbc4.jar:
-  object_id: 399099f7-a93a-4164-b05b-11237a55acd2
-  sha: !binary |-
-    MTUzZjJmOTJhNzg2ZjEyZmMxMTFkMDExMWY3MDkwMTJkZjg3YzgwOA==
-  size: 539705
-buildpack_cache/auto-reconfiguration-0.6.8.jar:
-  object_id: fc5446f6-6569-4a9f-9987-0b1e217c435c
-  sha: !binary |-
-    MjY4MjYwMDM5YzZmMjU4N2M1Y2M0M2MyYjU3M2VlODhiNGRiZWMwYw==
-  size: 709165
-buildpack_cache/openjdk-1.6.0_27.tar.gz:
-  object_id: 3253a980-17de-423f-b3b7-1f6e61953b02
-  sha: !binary |-
-    YTQ1YjZmODliYTU0ZDIzMGNiNDc5OTJiZDgxNzdkMjExZjY0YmQ5Mw==
-  size: 28917046
-buildpack_cache/ruby_versions.yml:
-  object_id: 13d517e1-99d4-4963-939a-8b0f5a39de74
-  sha: !binary |-
-    ZTQzMzViM2FiNGNiYjhkMWMwNDU2ZjhjMzYxZGJlNzNmZDZiYjYxZg==
-  size: 56
-buildpack_cache/mysql-connector-java-5.1.12.jar:
-  object_id: 94aa0d67-af8c-426c-b62f-07f65527870d
-  sha: !binary |-
-    MTRhZTAyY2MyYWRiMmFlZDY3NzA4MGEwYzAzNTZlNzU2OWUyOThlYw==
-  size: 732695
-buildpack_cache/apache-tomcat-7.0.41.tar.gz:
-  object_id: 7dd92ac1-1283-4f6f-8e45-31b2683be024
-  sha: !binary |-
-    ODc5NzRmY2MyNDcxMWVhMjUzZmI0M2UzZGI0NTA2NjRlMDJlMWFkZg==
-  size: 7946142
-buildpack_cache/ruby-1.9.3.tgz:
-  object_id: 83181bd2-089e-4fc3-b6ae-7e3de674e0e5
-  sha: !binary |-
-    MmE2NTMwMWYzYTI4YTdlZGY3N2MwN2VjY2M0ZDlhNTdjOTUxMzQ5MQ==
-  size: 10823804
-buildpack_cache/openjdk-1.7.0_21.tar.gz:
-  object_id: e51b00ca-18a3-4823-aafa-1c8256313e31
-  sha: !binary |-
-    OTQ5NjUyOWMzZmJiOWJiZTIyMjVkMDhmOTk5YjA3N2MyYWRjYmYxMg==
-  size: 31171473
-buildpack_cache/apache-tomcat-7.0.40.tar.gz:
-  object_id: 6c9141c7-c93c-4e8c-89cf-d485f0327d89
-  sha: !binary |-
-    MmZlMTg1ODQyMDc2NDU4ZGE1N2I1NGYwYTJjYzNmNWI0MWFlMDA3ZA==
-  size: 7843733
-buildpack_cache/openjdk-1.7.0_25.tar.gz:
-  object_id: a742c69c-6e04-4d6c-8fcb-19efa4df4526
-  sha: !binary |-
-    MzdiNGNiYjJlODgyZjhkYTk5NDQ3MjllOWYzMTFmOGY3MWNjN2ZkZg==
-  size: 31516851
-buildpack_cache/bundler-1.3.2.tgz:
-  object_id: e6f6564b-f29d-403d-bcca-531f5fbc808d
-  sha: !binary |-
-    NmMyOTliNzU1YzkwZjE4NmU3Y2U2NzdlNDEzZTNjMmEzNGQ5MmY3MA==
-  size: 810851
-buildpack_cache/bundler-1.3.1.tgz:
-  object_id: b7ed16b0-95c6-4247-a434-3794ecf8258b
-  sha: !binary |-
-    NmQyY2E5NTVhZjZhMjYzNDFiM2NjMjcyNjZlYzYyYTIwZDdkOWExMQ==
-  size: 231
-buildpack_cache/ruby-1.9.2.tgz:
-  object_id: 0903d781-e52a-485e-ae0a-9b1562da7b13
-  sha: !binary |-
-    ZWNkYzhiYjg5NzVlNjg2ZDBmMWIwYWM0NDdiMmI1ZmZjMGI0ZWExZA==
-  size: 10143524
-buildpack_cache/ruby-2.0.0.tgz:
-  object_id: b5acd48d-5194-4323-8aab-14f39d180a92
-  sha: !binary |-
-    MjA3Yjk2NDBhNTQyZmM2OWEyOGNlNGY1YThlMjlkZjExZWM5MGNlNQ==
-  size: 11855025
-buildpack_cache/libyaml-0.1.4.tgz:
-  object_id: ec1f1b63-ea92-4076-9408-af23be8debae
-  sha: !binary |-
-    ZThmNjZkYmRiZTZhZmJmNDM0YmU0YjVkODE3OThmMGNjZmE0OGQwNA==
-  size: 61085
-buildpack_cache/ruby-1.8.7.tgz:
-  object_id: 9e8d728d-e61a-4385-a05b-9d160e5156eb
-  sha: !binary |-
-    MzcwNWY0Zjg5NTUwZjZmNTgyZGE5ZjI1YWYxYTcxNWM3MTZhNDM5NA==
-  size: 4402111
-buildpack_cache/bundler-1.3.0.pre.5.tgz:
-  object_id: 5b4f448f-43db-4f1d-b958-3c464b052958
-  sha: !binary |-
-    YWJhN2EzMGRmZTZjYzgzMDA1ZDk0MGUxYmNjMzNlZjlhZDUwNjAwMQ==
-  size: 488313
-buildpack_cache/apache-tomcat-7.0.37.tar.gz:
-  object_id: 64fbde47-05a6-4080-8c6e-913bd8dc5afc
-  sha: !binary |-
-    YzcyMDk3NWQ2ZWJlZmEwNzFlYjk0ZmRiMjdmMTNmNTNlODg4NDgxMQ==
-  size: 7814288
-buildpack_cache/play-jpa-plugin-0.6.6.jar:
-  object_id: ea5a5511-111b-4194-a9e8-7f1266fd3f01
-  sha: !binary |-
-    M2RmN2M0NzM1MzNkMWZmZTRlNWYyZDAzNjBmOGQ0MTIyODBmOTYyNw==
-  size: 4320
-buildpack_cache/ruby-build-1.9.2.tgz:
-  object_id: 2d8ce9cb-0c0f-47b0-85ce-66376527df1f
-  sha: !binary |-
-    NjUzYjk0YTcwYWQ2MWQ4NDQ5MzRjMGIwZDZlMmQzZjlmM2I2YTg5Mg==
-  size: 10148015
-buildpack_cache/rails3_serve_static_assets.tgz:
-  object_id: d185dd8d-b999-4c4c-9f28-03a581b71ecf
-  sha: !binary |-
-    NGE2YzYxOTA1Y2QzNDIwNzRkM2U2MDc3MzI3NWYzMDhhMzFhY2U2NA==
-  size: 251
-buildpack_cache/auto-reconfiguration-0.6.7.jar:
-  object_id: 8b318c06-c596-47b1-8387-6756676dcbf7
-  sha: !binary |-
-    NzI4MjI4ZjM2NDhkNjc5NzU5ZGYwNGZjZTYyMjBkNDQ2ZTVmZGQ5Zg==
-  size: 708374
-buildpack_cache/auto-reconfiguration-0.6.6.jar:
-  object_id: de213a54-bc99-4c2b-a430-a284e5860299
-  sha: !binary |-
-    NDEwMjc1NWZjZjc4NzM0NWU4ODY2ODQwNDU4OTQ4MTkyMGRjYzczMg==
-  size: 707752
 rootfs/lucid64.tar.gz:
-  object_id: a20bde8b-6d53-4022-93e7-40a1572cd0f8
+  object_id: c0a42613-81b2-46f0-b3ae-d46b8bd937af
   sha: !binary |-
     OWNkZDBiZGQ2MWIxNjM3YWZmYWQ4MGJiMWNlOGY1NjI0ZTAzYzdlNA==
   size: 203019535
 rootfs/cflinuxfs2.tar.gz:
-  object_id: d9f5548e-f107-4340-bfb6-0a641c117bae
+  object_id: d413c596-1b7e-4f94-af86-b5340b63c77d
   sha: !binary |-
     NDZlM2ViMzFlNzZiN2ZjMTFkYjMxY2Y0ZTJmMGExMDM5YThkMDVmOQ==
   size: 251842436
-java-buildpack/java-buildpack-v2.7.zip:
-  object_id: 19977bb1-e438-4185-959b-1c58f3c3df8a
+uaa/apache-tomcat-7.0.55.tar.gz:
+  object_id: a9a2273a-b20d-4d37-af66-43276c37a8f7
   sha: !binary |-
-    Y2I1MjNkYzQwOTVjODk0Y2Y1ZjU1OGZiNzk0YmM5MmE1N2RkYzM3Mg==
-  size: 149529
-java-buildpack/java-buildpack-offline-v2.7.zip:
-  object_id: ccb801e3-245a-47a6-b6fc-cbdbd83117f4
+    NGUyM2YxZTNkNmQyNGUwYWZmZWJlNzhmNmY1YzVkNWE0OWViNGUzNw==
+  size: 8941662
+uaa/cloudfoundry-identity-varz-1.0.2.war:
+  object_id: 7722025e-a4fe-4314-84de-4760cc1bc099
   sha: !binary |-
-    ZTcyNGZmM2E4N2Y3YTU0OTIwNmRjZTg0MzhkMTRmZjkzMjdiOTE2OA==
-  size: 295400134
+    OGMzNWVkMzVmYjZkZmM0YTk3YTI0MzQ0Nzc2M2M2MzU4MTIwNjZlOA==
+  size: 5727747
+uaa/openjdk-1.7.0_51.tar.gz:
+  object_id: f04ba5f1-c557-4d2f-aded-a981e3441713
+  sha: !binary |-
+    MGY0ZDM3MDVlM2E0ZTE0NTIyNTBkZWY1N2NmYzM2YWI2Y2MzNzM1NQ==
+  size: 34729532
+uaa/openjdk-1.7.0-u40-unofficial-linux-amd64.tgz:
+  object_id: 49c5e78f-2eee-44d6-81a5-280ac99aead9
+  sha: !binary |-
+    YmI0MWM2OGUwZGMyNmFkNzE2MzVkNGJmZjhkYTE2MjQ2ZGVkMTBmMA==
+  size: 42574624
+uaa/openjdk-1.7.0-u40-unofficial-macosx-x86_64-bundle.tgz:
+  object_id: c3cbf22a-d891-4b19-b1e1-1ca6374a2eb0
+  sha: !binary |-
+    YWM3ZmViYzViYmZmMmRlZGY4YWRkNjI0YTcyN2E0YzBhYzZjM2QxMA==
+  size: 65991397
+postgres/postgresql-9.0.3.tar.gz:
+  object_id: b247412f-f0fe-4622-9ab7-69ecb91ae8dd
+  sha: !binary |-
+    YzhmYjVkMWQ3OTMwZTc4MjExZTU1NGJiNTc1MTE4M2E4MTQ4ZDBlZQ==
+  size: 18335858
+postgres/postgres-9.0.3-1.i386.tar.gz:
+  object_id: 2c412735-ea61-4612-98a1-cf08eb061541
+  sha: !binary |-
+    YjJiZGUzMWU3MjBlYjIxOWJmZGM5ZjFiNzg0Zjk4NWVjY2EyY2JmYg==
+  size: 15111387
+postgres/postgres-9.0.3-1.amd64.tar.gz:
+  object_id: 2678f310-f280-4cd8-8d42-fd8d9c673582
+  sha: !binary |-
+    ZTQ3ZWU5Yzg0MWVjZGU0ZGYxMjFmNDRkZjI4MmFlYjNjNTBhNDhkMg==
+  size: 16203511
+mysql/client-5.1.62-rel13.3-435-Linux-x86_64.tar.gz:
+  object_id: ce06322d-e525-4b47-bdb0-bc18d6bc354e
+  sha: !binary |-
+    NmU1YTE3MTk1ODMxNjg4YTVmMTRmMjBhYTVkOWNkNWQ1ZjQxNjRkYg==
+  size: 4105211
+nodejs-buildpack/nodejs_buildpack-offline-v1.1.1.zip:
+  object_id: 54f7b7a1-2b51-4ebd-bfcd-0616d1c34b68
+  sha: !binary |-
+    ZGZjNGVlYjIxZTY5MjVkM2NlNWNkMGU1MDBjZGJlODU4NjljZGMxNg==
+  size: 437952578
+ruby-buildpack/ruby_buildpack-offline-v1.2.1.zip:
+  object_id: 504a6777-cae3-4dc6-8afe-ecc413a2189b
+  sha: !binary |-
+    MjRlOGIyZjQyNmQwZDM3MjlhYjkxYjI4YjBlMTkyYTIxMThmOGUyMw==
+  size: 864863823
+haproxy/pcre-8.36.tar.gz:
+  object_id: fb179dde-ade1-49ce-9e4f-3ad05693338e
+  sha: !binary |-
+    ZmI1Mzc3NTc3NTY4MTgxMzNkODE1N2VjODc4YmMxMWY1YTkzZWY0ZA==
+  size: 2009464
+buildpack_cache/apache-tomcat-7.0.40.tar.gz:
+  object_id: ea34aed6-2f90-4411-8019-d75176125a49
+  sha: !binary |-
+    MmZlMTg1ODQyMDc2NDU4ZGE1N2I1NGYwYTJjYzNmNWI0MWFlMDA3ZA==
+  size: 7843733
+buildpack_cache/auto-reconfiguration-0.6.8.jar:
+  object_id: cd6ff082-50f7-4499-91c4-d81651234f64
+  sha: !binary |-
+    MjY4MjYwMDM5YzZmMjU4N2M1Y2M0M2MyYjU3M2VlODhiNGRiZWMwYw==
+  size: 709165
+buildpack_cache/play-jpa-plugin-0.6.6.jar:
+  object_id: 46487712-3b32-44b4-842f-610cca482896
+  sha: !binary |-
+    M2RmN2M0NzM1MzNkMWZmZTRlNWYyZDAzNjBmOGQ0MTIyODBmOTYyNw==
+  size: 4320
+buildpack_cache/bundler-1.3.1.tgz:
+  object_id: b7e50921-297c-4682-8cac-b001bd98ef14
+  sha: !binary |-
+    NmQyY2E5NTVhZjZhMjYzNDFiM2NjMjcyNjZlYzYyYTIwZDdkOWExMQ==
+  size: 231
+buildpack_cache/openjdk-1.6.0_27.tar.gz:
+  object_id: 0c61e3be-6b7a-441c-851c-80057233b131
+  sha: !binary |-
+    YTQ1YjZmODliYTU0ZDIzMGNiNDc5OTJiZDgxNzdkMjExZjY0YmQ5Mw==
+  size: 28917046
+buildpack_cache/mysql-connector-java-5.1.12.jar:
+  object_id: 70526ff4-d7d4-4ddf-997e-41401cff1d37
+  sha: !binary |-
+    MTRhZTAyY2MyYWRiMmFlZDY3NzA4MGEwYzAzNTZlNzU2OWUyOThlYw==
+  size: 732695
+buildpack_cache/auto-reconfiguration-0.6.7.jar:
+  object_id: 0a75d6a1-c35d-4b37-9c61-acb825ce2b49
+  sha: !binary |-
+    NzI4MjI4ZjM2NDhkNjc5NzU5ZGYwNGZjZTYyMjBkNDQ2ZTVmZGQ5Zg==
+  size: 708374
+buildpack_cache/bundler-1.3.0.pre.5.tgz:
+  object_id: ed53d079-126d-47d5-8cdd-023ba8ac5aec
+  sha: !binary |-
+    YWJhN2EzMGRmZTZjYzgzMDA1ZDk0MGUxYmNjMzNlZjlhZDUwNjAwMQ==
+  size: 488313
+buildpack_cache/ruby-1.8.7.tgz:
+  object_id: fa474263-b2c4-49bd-87a8-9dc1b594f7d9
+  sha: !binary |-
+    MzcwNWY0Zjg5NTUwZjZmNTgyZGE5ZjI1YWYxYTcxNWM3MTZhNDM5NA==
+  size: 4402111
+buildpack_cache/libyaml-0.1.4.tgz:
+  object_id: 03008b7b-e183-4bb6-b9ee-c09d3ac322ee
+  sha: !binary |-
+    ZThmNjZkYmRiZTZhZmJmNDM0YmU0YjVkODE3OThmMGNjZmE0OGQwNA==
+  size: 61085
+buildpack_cache/ruby-build-1.8.7.tgz:
+  object_id: 7b398f95-40e4-40f2-9eda-12468b494cd6
+  sha: !binary |-
+    NWM3NWExYTU1M2Q5Yjc0ZDUyOWI2OTI5YzJkMWI4OWIyMWVmZjUyOA==
+  size: 4400433
+buildpack_cache/bundler-1.3.2.tgz:
+  object_id: 8ab826de-b2da-40fa-9f5d-ec1f2273c5ab
+  sha: !binary |-
+    NmMyOTliNzU1YzkwZjE4NmU3Y2U2NzdlNDEzZTNjMmEzNGQ5MmY3MA==
+  size: 810851
+buildpack_cache/apache-tomcat-7.0.41.tar.gz:
+  object_id: 33b0b478-b69b-4c27-b1ca-b3d7cb2b0e94
+  sha: !binary |-
+    ODc5NzRmY2MyNDcxMWVhMjUzZmI0M2UzZGI0NTA2NjRlMDJlMWFkZg==
+  size: 7946142
+buildpack_cache/openjdk-1.7.0_25.tar.gz:
+  object_id: 130f2d77-b1c9-4bcf-987a-94606c829235
+  sha: !binary |-
+    MzdiNGNiYjJlODgyZjhkYTk5NDQ3MjllOWYzMTFmOGY3MWNjN2ZkZg==
+  size: 31516851
+buildpack_cache/ruby-build-1.9.2.tgz:
+  object_id: 08107109-21e9-4f3a-b645-f98fcf99c0a8
+  sha: !binary |-
+    NjUzYjk0YTcwYWQ2MWQ4NDQ5MzRjMGIwZDZlMmQzZjlmM2I2YTg5Mg==
+  size: 10148015
+buildpack_cache/rails3_serve_static_assets.tgz:
+  object_id: 7eb60a67-fc73-4349-8e9e-4dab283303dd
+  sha: !binary |-
+    NGE2YzYxOTA1Y2QzNDIwNzRkM2U2MDc3MzI3NWYzMDhhMzFhY2U2NA==
+  size: 251
+buildpack_cache/ruby-2.0.0.tgz:
+  object_id: 7cc5e984-7b4d-4342-8859-51b0f05f4baa
+  sha: !binary |-
+    MjA3Yjk2NDBhNTQyZmM2OWEyOGNlNGY1YThlMjlkZjExZWM5MGNlNQ==
+  size: 11855025
+buildpack_cache/apache-tomcat-7.0.37.tar.gz:
+  object_id: 3ad3ca18-7438-49c8-aa72-26bf09363d02
+  sha: !binary |-
+    YzcyMDk3NWQ2ZWJlZmEwNzFlYjk0ZmRiMjdmMTNmNTNlODg4NDgxMQ==
+  size: 7814288
+buildpack_cache/ruby_versions.yml:
+  object_id: 08f03b17-d571-4c98-bd8e-2ec3c8804c3b
+  sha: !binary |-
+    ZTQzMzViM2FiNGNiYjhkMWMwNDU2ZjhjMzYxZGJlNzNmZDZiYjYxZg==
+  size: 56
+buildpack_cache/ruby-1.9.2.tgz:
+  object_id: f0f7d389-33fd-413a-8707-77f67fff1709
+  sha: !binary |-
+    ZWNkYzhiYjg5NzVlNjg2ZDBmMWIwYWM0NDdiMmI1ZmZjMGI0ZWExZA==
+  size: 10143524
+buildpack_cache/openjdk-1.7.0_21.tar.gz:
+  object_id: 9d5cd948-ad0c-46ad-a8cb-2f7ae1e242fe
+  sha: !binary |-
+    OTQ5NjUyOWMzZmJiOWJiZTIyMjVkMDhmOTk5YjA3N2MyYWRjYmYxMg==
+  size: 31171473
+buildpack_cache/openjdk-1.8.0_M7.tar.gz:
+  object_id: 0919da6f-d229-4e68-8dc5-fa78f80906ec
+  sha: !binary |-
+    ZGZmZDhhYTA3NTA0NzU0ZTI1YWRmZjk1NDdkY2U2YTM2NmM0NWQxNA==
+  size: 38150032
+buildpack_cache/rails_log_stdout.tgz:
+  object_id: 959decdb-baea-4610-bb83-b035dbbad71b
+  sha: !binary |-
+    YzdmNmIzY2E2MDI2MjhkNDM4YjYzODllNjFiMjZlMjA2ZTJlMzcyNw==
+  size: 719
+buildpack_cache/auto-reconfiguration-0.6.6.jar:
+  object_id: b868369b-5824-475a-a020-18bba3153bfc
+  sha: !binary |-
+    NDEwMjc1NWZjZjc4NzM0NWU4ODY2ODQwNDU4OTQ4MTkyMGRjYzczMg==
+  size: 707752
+buildpack_cache/ruby-1.9.3.tgz:
+  object_id: 17c60b5c-30c6-45c8-957a-7133bc237423
+  sha: !binary |-
+    MmE2NTMwMWYzYTI4YTdlZGY3N2MwN2VjY2M0ZDlhNTdjOTUxMzQ5MQ==
+  size: 10823804
 cli/cf-linux-amd64.tgz:
-  object_id: 91123f56-be10-44e2-8142-9bf5e317929b
+  object_id: 52be190a-fe05-4a62-a3b1-a7d636e96222
   sha: !binary |-
     Zjg0NTgwMDMxMGU0YjcwMmEzOWEyZjExOTFlM2Q3MTg2MjYzMDEwMw==
   size: 4803309
 cli/cf-darwin-amd64.tgz:
-  object_id: 023beb9e-f917-4960-bc37-dbe45f4a6bf5
+  object_id: 0bb40605-8472-471d-aa52-193631b37ffc
   sha: !binary |-
     MDE1OTA3OTcyMTMxMDc0NDdhNTRjYzY4ZjlmZWM0ZGU1MGVkM2RkZA==
   size: 4753530
-haproxy/haproxy-1.5.10.tar.gz:
-  object_id: 96a6e2c2-1c9f-4444-b051-1f3e131a6f55
+ruby-2.1.4/rubygems-2.4.2.tgz:
+  object_id: 65745f5e-9a92-4630-a6d7-a5a7e16e77bf
   sha: !binary |-
-    MmFmM2I3NDBlODRmMTBjYmQwYzkwYTc4YzMwYTIyMmEyNGZiMjk0NQ==
-  size: 1339873
-haproxy/pcre-8.36.tar.gz:
-  object_id: 2d884af1-6b93-4044-86d2-d9f3c79ec916
+    NTM4ZjdhMjY0Nzk4Mzc3ZTVhNjMwNTZmOTc5YzQzZjQ0MTYxM2ZmMw==
+  size: 440555
+ruby-2.1.4/bundler-1.7.4.gem:
+  object_id: 592046e0-1ce9-4331-8516-fdc761f25e05
   sha: !binary |-
-    ZmI1Mzc3NTc3NTY4MTgxMzNkODE1N2VjODc4YmMxMWY1YTkzZWY0ZA==
-  size: 2009464
+    ZTExZWI3ZjliODA3ZjViN2YzYmViN2MyM2EwNjgwM2M3NDg0YWViYw==
+  size: 301568
+ruby-2.1.4/ruby-2.1.4.tar.gz:
+  object_id: 173a5628-d658-4164-92ef-41bb33fca692
+  sha: !binary |-
+    MjllOWNmZGQ5ZTk4OWI3NjIxZDc2OTZlZjNmOTcwMjYyYTA4ZGJjMw==
+  size: 15127418
+ruby-2.1.4/yaml-0.1.6.tar.gz:
+  object_id: 55eb3c15-2a60-4548-b168-3be17f2707c4
+  sha: !binary |-
+    ZjNkNDA0ZTExYmVjM2M0ZWZjZGRmZDE0YzQyZDQ2ZjFhYWJlMGI1ZA==
+  size: 503012
+nginx/nginx-upload-module-2.2.tar.gz:
+  object_id: 006fba08-827b-41bc-a2b5-81ab8ad7c423
+  sha: !binary |-
+    NzRjY2QxMTY1MjVhMTU1ZGI3NmY5MmExY2Q0ODRkOTUxNmE3MDM5OA==
+  size: 28505
 nginx/nginx-1.6.2.tar.gz:
-  object_id: 276423d5-1055-4d87-b76b-93c35a91d8ca
+  object_id: 118acec9-14be-4ea2-a0c6-95fd4b72fbf4
   sha: !binary |-
     MWE1NDU4YmMxNWFjZjkwZWVhMTYzNTNhMWRkMTcyODVjZjk3ZWMzNQ==
   size: 804164
+nginx/pcre-8.36.tar.gz:
+  object_id: c2e9d17c-0fa6-424c-b575-677a0edaa94b
+  sha: !binary |-
+    ZmI1Mzc3NTc3NTY4MTgxMzNkODE1N2VjODc4YmMxMWY1YTkzZWY0ZA==
+  size: 2009464
 nginx/headers-more-v0.25.tgz:
-  object_id: 242e5c89-8bb2-4412-8ecb-1999bc8819b7
+  object_id: 57dd242d-7e2e-4a2c-81ec-4b4c7b829e9e
   sha: !binary |-
     NTE0YmMzZGYzMGIyNGViMGEwNjUzM2YxZWJhYTU3OWI4OTg5OTBmNQ==
   size: 27973
 nginx/newrelic_nginx_agent.tar.gz:
-  object_id: 88993dc6-7406-436a-bfc9-fafd2792e92e
+  object_id: 591ac2db-c075-45b8-9ee8-e00e9612a512
   sha: !binary |-
     OThhMWIxMDQ3NTM3MTcwNTkzMmZlYTQ3NjlmOGFjMWIwNDUxMTA2Zg==
   size: 5222
-nginx/pcre-8.36.tar.gz:
-  object_id: 392eca85-5f84-4c07-8085-9bf51e9d4677
+python-buildpack/python_buildpack-offline-v1.1.2.zip:
+  object_id: 90a45079-8223-4596-a246-1c38cfcfe9af
   sha: !binary |-
-    ZmI1Mzc3NTc3NTY4MTgxMzNkODE1N2VjODc4YmMxMWY1YTkzZWY0ZA==
-  size: 2009464
-nginx/nginx-upload-module-2.2.tar.gz:
-  object_id: 63eb0db7-560b-41a6-84bb-e5b144ae571e
+    MWRkOTc2YmVhYjE1YzVlYzNlZmU1YWQwNWYyYTAzYzI4Y2VjMDQ4ZQ==
+  size: 329659965
+go-buildpack/go_buildpack-offline-v1.1.2.zip:
+  object_id: 26f1b909-4c2b-456c-bd25-68747812a49d
   sha: !binary |-
-    NzRjY2QxMTY1MjVhMTU1ZGI3NmY5MmExY2Q0ODRkOTUxNmE3MDM5OA==
-  size: 28505
+    YWEzY2ViNzZmMDE3NDIxZGRiNzczMzM1MjEyM2Y3YzgxZTQxYjE0Yw==
+  size: 663441909
+golang/go1.3.1.linux-amd64.tar.gz:
+  object_id: b99518c1-0c1c-4fbc-bdf6-3833118da68e
+  sha: !binary |-
+    M2FmMDExY2MxOWIyMWM3MTgwZjI2MDRmZDg1ZmJjNGRkZGU5NzE0Mw==
+  size: 51930765
+golang/go1.4.2.linux-amd64.tar.gz:
+  object_id: a2c7e9d7-c2ab-4af8-8195-1f86026b2943
+  sha: !binary |-
+    NTAyMGFmOTRiNTJiNjVjYzliNmYxMWQ1MGE2N2U0YmFlMDdiMGFmZg==
+  size: 62442704
+golang/go1.2.1.linux-amd64.tar.gz:
+  object_id: 48ac3df1-69eb-41a1-9f5e-fa18f3470414
+  sha: !binary |-
+    NzYwNWY1NzdmZjZhYzJkNjA4YTNhNGU4MjliMjU1YWUyZWJjOGRjZg==
+  size: 56123695
+php-buildpack/php_buildpack-offline-v3.0.4.zip:
+  object_id: 4ad08f77-9cb6-494f-bbce-e4872f60da7b
+  sha: !binary |-
+    M2IxYjhmNDI2YmI5NmY0YTJhNDdkYWZmNmQ4N2FhNGFlZmIzNTg1Zg==
+  size: 479764812
+java-buildpack/java-buildpack-v2.7.zip:
+  object_id: 0176a937-e6ff-41bc-8a32-9f7b95fdcdae
+  sha: !binary |-
+    Y2I1MjNkYzQwOTVjODk0Y2Y1ZjU1OGZiNzk0YmM5MmE1N2RkYzM3Mg==
+  size: 149529
+java-buildpack/java-buildpack-offline-v2.7.zip:
+  object_id: 10c3cd40-fb61-4bf7-b79b-0c2d1f53d152
+  sha: !binary |-
+    ZTcyNGZmM2E4N2Y3YTU0OTIwNmRjZTg0MzhkMTRmZjkzMjdiOTE2OA==
+  size: 295400134
+debian_nfs_server/nfs-kernel-server_1%3a1.2.0-4ubuntu4.1_amd64.deb:
+  object_id: 4cc36bc7-f87e-451a-86ae-aa219277c6a5
+  sha: !binary |-
+    YTQ0YjNmODMxOTk4NGJhY2U2MWYyMWJiNmQxNWNlZTE0MTllNWJmMw==
+  size: 169618
