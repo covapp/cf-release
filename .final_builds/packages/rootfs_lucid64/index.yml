@@ -1,83 +1,9 @@
 ---
 builds:
-  !binary "NzViODBlMmQwNDg2M2E1N2EyM2UxYWRiMTc3ZGI5ODIyM2JjZWRlNA==":
-    blobstore_id: c5b797fb-3070-4a77-8d30-bdc8af057b13
-    version: 1
-    sha1: !binary |-
-      YjAxMjgyNjk2NmFhOGVjOTNlM2FmODE1ZTI3NzEyZDkzZjVlODk1Mg==
-  !binary "ZTI2ZTc4OGFiOTdkZmEyMGM0MmVlMGQzZTY0NWZmYjc4MmJmNjFhMw==":
-    blobstore_id: 31ca2a1f-7fb8-441c-87c8-c6938322c721
-    version: 2
-    sha1: !binary |-
-      NGExMTMxNzViMGI2NDdhZjEzODQxODIzMzQ5MzYyNTI4ZjAzYzIwNQ==
-  !binary "MTU1MTZjZGQzOGU1ZGM1ZDc1MWM1OTFhNmYwYTJmN2RkODViZDY5YQ==":
-    blobstore_id: fa2e0132-8c8b-45c6-833b-88695917c86d
-    version: 3
-    sha1: !binary |-
-      YWYzMzdjNDQxZTBiMzViZWQ2NDBiMWY2MjhlMzM2ZGQ1MGEyZmViMw==
-  !binary "NTY1MmM2YmNmMmNjMzk2NGY0YTNjMzg4MDJkYTA3NjY0NjkyOWM1Zg==":
-    blobstore_id: 2197e60f-9a76-4904-bff4-3fdbfd199a4f
-    version: 4
-    sha1: !binary |-
-      ZDJmMDBjYTJjZGJiMmRhODcyNzgxZmNkZjg0YTc3MDFiNjRlZGVhOA==
-  !binary "MDUzYzQwOTE0YWI0MjU3OTQxMzFkN2QyYzU3OTQzNTg4ZDFlODBiZQ==":
-    blobstore_id: 3a84cbeb-5ef2-48d1-ba5b-7976a9e90634
-    version: !binary |-
-      MDUzYzQwOTE0YWI0MjU3OTQxMzFkN2QyYzU3OTQzNTg4ZDFlODBiZQ==
-    sha1: !binary |-
-      ODM4YWRhOWM1ZjI2ZjExMGVjNjM4NmQ5MjJiYTUzMTFiNzhiNzZhYw==
-  !binary "NjNlNGYzOTI5M2I0ZDAwMzYzNzRjMzQ4MTM5MjAzNjc3Y2ZhNzcyZg==":
-    version: !binary |-
-      NjNlNGYzOTI5M2I0ZDAwMzYzNzRjMzQ4MTM5MjAzNjc3Y2ZhNzcyZg==
-    sha1: !binary |-
-      MGE0ODI1Mjc1ODgyZTlhNzJiNzY3Njc4MTA2MjI4ZmY4NmEzNTg2MA==
-    blobstore_id: 867605df-8f06-4522-934f-01f222924e5e
-  !binary "NzM2MTBmZmNlYTFhNThmZDRjYWU1YzJmOTg3NDJmOWZkNjQ2ZmI2NA==":
-    version: !binary |-
-      NzM2MTBmZmNlYTFhNThmZDRjYWU1YzJmOTg3NDJmOWZkNjQ2ZmI2NA==
-    sha1: !binary |-
-      NzNjMTk3ZjZmN2Y1NzIxZTQyY2Q4NDQzMzJhMTVmZWU3YmE0NzFkNw==
-    blobstore_id: d3af40df-1ba4-41b1-b1ea-556100eebf88
-  !binary "YWQ5NTMwZDgwYWQ4YWI2YmJlZDEzYWY1ZjI5MzYyZGY0YWRiMzVkNQ==":
-    version: !binary |-
-      YWQ5NTMwZDgwYWQ4YWI2YmJlZDEzYWY1ZjI5MzYyZGY0YWRiMzVkNQ==
-    sha1: !binary |-
-      NDJhNTYyN2I2YTE1NTVkMDg3NWRmYTUzNWZiYTJmNzUyYzk0ZDU0Zg==
-    blobstore_id: 4ed972bd-5301-4b24-a519-704384cee8b4
-  !binary "MThmYjIxZDU1NjQ0OTg3YjJjNWRjZTFlZmM2MDljNTNkYzE1M2NlNg==":
-    version: !binary |-
-      MThmYjIxZDU1NjQ0OTg3YjJjNWRjZTFlZmM2MDljNTNkYzE1M2NlNg==
-    sha1: !binary |-
-      NWI2YmZkN2I2Yjk2OTQ2M2YyNGVmZmJiNTY5NGYxNzIwOWUzOTU5ZQ==
-    blobstore_id: 529a97b6-93fd-4db1-94c5-96cf4df4ec2c
-  !binary "YWM3NzM4Njg4ODAzN2IyNmY0ZGQyNTUxYzYzMzk0N2ExMTJiOTMxMw==":
-    version: !binary |-
-      YWM3NzM4Njg4ODAzN2IyNmY0ZGQyNTUxYzYzMzk0N2ExMTJiOTMxMw==
-    sha1: !binary |-
-      NWE0YzYwMzU2Yjg5ZjQ1Y2RlZTQ3NDdkZWQ3ZDdhMmU2MGQzNWJiNw==
-    blobstore_id: bfcf0a6f-b86e-43be-b6b3-9a7fce7d831d
-  !binary "ZGQ3NTcxMGU4MWMyNzEwNWRkMmJlMzFkNTExYmQ3ZjI5ZDQzMTNlYg==":
-    version: !binary |-
-      ZGQ3NTcxMGU4MWMyNzEwNWRkMmJlMzFkNTExYmQ3ZjI5ZDQzMTNlYg==
-    sha1: !binary |-
-      M2ExYmRjOWU2NTNkYjgwMzNkN2U1ZWQ4YTJhMDkxYmFjMDEyZmRjYw==
-    blobstore_id: 32af6dc6-7741-49b6-80d0-b493b5ca0beb
-  !binary "ZjljNTQwNWE3MTE5ODAzODM3OGVmN2ZlNDViNzVmMWUxZjBhYTYzNA==":
-    version: !binary |-
-      ZjljNTQwNWE3MTE5ODAzODM3OGVmN2ZlNDViNzVmMWUxZjBhYTYzNA==
-    sha1: !binary |-
-      ZTE0YTFkOTZiMzA1NjdlZWE4Y2Y0MGIyNDQ3YjdmMjBlZDcwZmNkYg==
-    blobstore_id: 2379f560-bda2-4086-85f0-b2e5bb62383f
-  !binary "MzYyZWQ5MjIxZmJkYWU5Y2QzZjg4OTA4OGZjMzczYjA0ZjA0Y2I4Zg==":
-    version: !binary |-
-      MzYyZWQ5MjIxZmJkYWU5Y2QzZjg4OTA4OGZjMzczYjA0ZjA0Y2I4Zg==
-    sha1: !binary |-
-      ZTViM2M1YWIxZmQ0NGY0NGNhMWVjOThmODdlYzU5MTFkMzFjYWY4Mg==
-    blobstore_id: 35959598-8b55-4ecf-9ec4-981a67538cc1
   !binary "NmNiZmU3NTQyNjIzM2Y3NzA5ZGQ2NzQxMzdiYzRmZWFjNDY0NDFmOA==":
     version: !binary |-
       NmNiZmU3NTQyNjIzM2Y3NzA5ZGQ2NzQxMzdiYzRmZWFjNDY0NDFmOA==
     sha1: !binary |-
-      ZmIyZDBkN2UwYTI1YjhjNzc4ZDdkZTM5NDE3ZjJmZjgyZTkzZmYwNg==
-    blobstore_id: fdc584c4-131b-42a5-959e-79ac9ff22268
+      NjFlOTQzZTI0NDUwOTg5MDhiMDY3NmNhYTkwM2NkNmY4ZDlkYTdiOQ==
+    blobstore_id: 50dd53ee-78ff-4612-a11b-dc7c33421fee
 format-version: '2'

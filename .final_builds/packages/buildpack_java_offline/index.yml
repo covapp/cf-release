@@ -1,44 +1,9 @@
 ---
 builds:
-  !binary "OTU3MzFjODM2OWUwZjdmMDllZTNhY2E4NGVlMDc4NjA4MDI4M2Y3Mw==":
-    blobstore_id: 76d1aab1-fcfd-47ff-a603-428dbd2aedee
-    version: 1
-    sha1: !binary |-
-      MDZjNTBiZjgwMzhmZjcyMTBhNWE1MGYwM2U3OWRiOWU3ZmVmNmFkMw==
-  !binary "ODc1MzIzMTIwMWE3ODhiMTkxMmM1YjgyYjYzN2EwYzBlZmUzYjVkMw==":
-    blobstore_id: 7cc33416-e5b8-4e46-9cf5-7c682376561d
-    version: !binary |-
-      ODc1MzIzMTIwMWE3ODhiMTkxMmM1YjgyYjYzN2EwYzBlZmUzYjVkMw==
-    sha1: !binary |-
-      MDc3OTZmYzllMGRiOTQ4NTNhZjJlNGFjZmU5OGM0NWU1M2I3ZGEwMg==
-  !binary "NTQ2NjMxZTc0YTI0NDY1MTUyYjg1NTM2NzJlZjJlMzA4NDFhZmVhYQ==":
-    blobstore_id: c441562f-4e26-43ae-88ad-9bf330799261
-    version: !binary |-
-      NTQ2NjMxZTc0YTI0NDY1MTUyYjg1NTM2NzJlZjJlMzA4NDFhZmVhYQ==
-    sha1: !binary |-
-      OWQwYTk3MmRlYjMxNWNhMTA5ZGY1YmUyMjMwN2Q2MmYyMTZiZDJkNw==
-  !binary "ODEzYmRhZjM3N2IwMWVmNWI3OWRiNDAyZTQxOWM3MDU1MGM2ODc2YQ==":
-    version: !binary |-
-      ODEzYmRhZjM3N2IwMWVmNWI3OWRiNDAyZTQxOWM3MDU1MGM2ODc2YQ==
-    sha1: !binary |-
-      ODNmNzMyN2Y1NzVjZWQwMDliNzA0MWUwOGU5NzAyMzA5NTA2YTk2NQ==
-    blobstore_id: 5179e579-b177-4955-9a6e-2f91c3228d2e
-  !binary "YjgyNTkyZTUzNDgzYmNmY2VhMjY5MmFmZjlmYTM1MWM5ZmI2OWYxMg==":
-    version: !binary |-
-      YjgyNTkyZTUzNDgzYmNmY2VhMjY5MmFmZjlmYTM1MWM5ZmI2OWYxMg==
-    sha1: !binary |-
-      N2NiOTk0MDgzZGZhNzZmZmZjYzllOGI0M2YxMzU4ZjBlYTc3MTY4Yw==
-    blobstore_id: f5ff1411-1f42-40d6-b200-f65b58f535a6
-  !binary "MDM4NmE2ZjBkZjMxMjQ3YWNmNWEwNzdhNmIyMDUxZWM5NTQ2ZDY0MQ==":
-    version: !binary |-
-      MDM4NmE2ZjBkZjMxMjQ3YWNmNWEwNzdhNmIyMDUxZWM5NTQ2ZDY0MQ==
-    sha1: !binary |-
-      MGFlOWYwYTdjMTM1ZjUyZmRlZDY1OWM2MWEzMmFkNWUzNmZjMTk0NA==
-    blobstore_id: d5a6d62e-f111-46ff-92fa-c0cc5a97c74b
   !binary "NzMwMDE2MWQ4MGM5Yjk2ZmEyYjNjMjU0MDFkNzViZDk4NGE5Njc3YQ==":
     version: !binary |-
       NzMwMDE2MWQ4MGM5Yjk2ZmEyYjNjMjU0MDFkNzViZDk4NGE5Njc3YQ==
     sha1: !binary |-
-      Zjc3ZGVkOThiYTAxNzM1MGY1N2NhZTI2NzIzYTc5ZjBiM2Q1NmE1Zg==
-    blobstore_id: ec677ab6-df64-40fa-9b15-1a033e8f30d0
+      ZGMwMDIzYzU4MGJhM2EzMWM4NWY1MzcxZDZmMGYzZDkzMmE5ZDZlOQ==
+    blobstore_id: e13973e9-9636-4609-91f3-d761a6f3be3e
 format-version: '2'
