@@ -294,3 +294,13 @@ debian_nfs_server/nfs-kernel-server_1%3a1.2.0-4ubuntu4.1_amd64.deb:
   sha: !binary |-
     YTQ0YjNmODMxOTk4NGJhY2U2MWYyMWJiNmQxNWNlZTE0MTllNWJmMw==
   size: 169618
+haproxy/haproxy-1.5.10.tar.gz:
+  object_id: 197ef777-8442-49ae-aca7-9843ef43b17f
+  sha: !binary |-
+    MmFmM2I3NDBlODRmMTBjYmQwYzkwYTc4YzMwYTIyMmEyNGZiMjk0NQ==
+  size: 1339873
+buildpack_cache/postgresql-9.0-801.jdbc4.jar:
+  object_id: 5291f4e9-fdd1-4b79-96b9-686e9f129f22
+  sha: !binary |-
+    MTUzZjJmOTJhNzg2ZjEyZmMxMTFkMDExMWY3MDkwMTJkZjg3YzgwOA==
+  size: 539705
