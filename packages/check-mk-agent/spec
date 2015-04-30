@@ -1,5 +1,0 @@
----
-name: check-mk-agent
-dependencies: []
-files:
-- check-mk-agent/check-mk-agent_1.2.4.tgz

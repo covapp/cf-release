@@ -1,5 +1,0 @@
-check process check-mk-agent
-  with pidfile /var/vcap/sys/run/check-mk-agent/check-mk-agent.pid
-  start program "/var/vcap/jobs/check-mk-agent/bin/monit_debugger check-mk-agent_ctl '/var/vcap/jobs/check-mk-agent/bin/check-mk-agent_ctl start'"
-  stop program "/var/vcap/jobs/check-mk-agent/bin/monit_debugger check-mk-agent_ctl '/var/vcap/jobs/check-mk-agent/bin/check-mk-agent_ctl stop'"
-  group vcap

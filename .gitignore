@@ -21,6 +21,7 @@ releases/*.tgz
 src_alt
 **/.DS_Store
 releases/**/*.tgz
+templates/cf.yml
 .DS_Store
 bosh-lite/manifests/*
 bosh-lite/tmp/*
